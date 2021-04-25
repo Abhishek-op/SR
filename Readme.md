@@ -1,4 +1,9 @@
-This is a kivy-android speech to text facades.
+This is a kivy-android speech to text repo.
+
+See a example vedio::
+
+
+http://youtube.com/shorts/wvZQshoAw-Q?feature=share
 
 
 To start listening::
