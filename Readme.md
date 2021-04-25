@@ -5,6 +5,10 @@ See a example vedio::
 
 http://youtube.com/shorts/wvZQshoAw-Q?feature=share
 
+note::
+    Needed permissions for Android: `RECORD_AUDIO` (and `INTERNET` if you want
+    online voice recognition API to be used)
+
 
 To start listening::
 
