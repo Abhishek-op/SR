@@ -32,3 +32,9 @@ To retrieve results after the listening stopped::
 
 
     >>> print(stt.results)
+Buy me a cup of coffee: paypal:: 
+https://www.paypal.me/thehackerone
+
+
+![image](https://user-images.githubusercontent.com/83164668/116036818-dd158100-a684-11eb-961e-e7f0172e69d2.png)
+
