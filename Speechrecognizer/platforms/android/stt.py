@@ -230,6 +230,7 @@ class AndroidSpeech(STT):
 
     @run_on_ui_thread
     def _stop(self):
+        self.speech = SpeechRecognizer.createSpeechRecognizer(activity)
         if not self.speech:
             return
 
