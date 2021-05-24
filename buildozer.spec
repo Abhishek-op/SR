@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Plyer Speech Recognition
+title = Speech Recognition
 
 # (str) Package name
-package.name = plyer.speech.recognition
+package.name = speech.recognition
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
