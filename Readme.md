@@ -36,9 +36,5 @@ To retrieve results after the listening stopped::
 Just follow☝️ me and Star⭐ my repository
 
 
-Buy me a coffee:
-paypal::
-https://www.paypal.me/thehackerone
-
 
 
