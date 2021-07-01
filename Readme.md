@@ -1,39 +1,33 @@
-This is a kivy-android speech to text repo.
+# 💡 This is a kivy-android speech to text implementation.
+➡️➡️See a example vedio➡️
+[<img align="right" alt="GIF" src="https://img.youtube.com/vi/wvZQshoAw-Q/0.jpg" width="300px" />](https://www.youtube.com/watch?v=wvZQshoAw-Q)
 
-See a example vedio::
+#### Note: Needed permissions for Android: `RECORD_AUDIO`, `INTERNET`[if you want online voice recognition API to be used]
 
+## 📌 How to use
 
-http://youtube.com/shorts/wvZQshoAw-Q?feature=share
-
-note::
-    Needed permissions for Android: `RECORD_AUDIO` (and `INTERNET` if you want
-    online voice recognition API to be used)
-
-
-To start listening::
+#### To start listening::
 
     >>> from Speechrecognizer import stt
     >>> stt.start()
-    
-	
-To retrieve partial results while listening::
+#### To retrieve partial results while listening::
 
     >>> assert stt.listening
     >>> print(stt.partial_results)
    
    
-To stop listening::
+#### To stop listening::
 
 
     >>> stt.stop()
   
   
-To retrieve results after the listening stopped::
+#### To retrieve results after the listening stopped::
 
 
     >>> print(stt.results)
     
-Just follow☝️ me and Star⭐ my repository
+## ⭐Give this Project a Star and also Check out my Github profile ☝️ [Abhishek-op](https://github.com/Abhishek-op)
 
 
 
